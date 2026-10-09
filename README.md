@@ -141,12 +141,11 @@ The deployed model and decision logic are designed for local inference without a
 
 **CropDoc AI — Arduino Edge AI Hackathon 2026**
 
-- **Team Leader:** [Name](https://github.com/USERNAME)
-- **Team Member:** [Name](https://github.com/USERNAME)
-- **Team Member:** [Name](https://github.com/USERNAME)
-- **Team Member:** [Name](https://github.com/USERNAME)
+- **Team Leader:** [Ananya Dutta](https://github.com/ananyadutta-tech)
+- **Team Member:** [Akash Samanta](https://github.com/akashsamanta2569-a11y)
+- **Team Member:** [Supriyo Adhikary](https://github.com/SupriyoAdhikary-2024)
+- **Team Member:** [Rishika Gupta](https://github.com/RishikaGupta0803)
 
-Replace these placeholders with the actual names, GitHub usernames, and roles.
 
 ## 🙏 Acknowledgements
 
